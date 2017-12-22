@@ -1,12 +1,8 @@
 build
 lib
-**/_bundles
-_bundles
 
-# artifacts
-*.d.ts
-*.js
-*.js.map
+
+
 
 # IDE
 *.ipr
