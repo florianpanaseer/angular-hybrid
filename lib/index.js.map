@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sources": [
+    "@uirouter/angular-hybrid/index.ts"
+  ],
+  "names": [],
+  "mappings": "AAAA,cAAc,kBAAkB,CAAC",
+  "file": "index.js",
+  "sourceRoot": ""
+}
